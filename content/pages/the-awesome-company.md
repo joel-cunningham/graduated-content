@@ -1,0 +1,3 @@
+---
+title: the awesome company
+---
