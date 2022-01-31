@@ -1,5 +1,5 @@
 ---
-title: Atlassian
+title: Atlassian 2
 sections:
   - type: section
     title: section 2
